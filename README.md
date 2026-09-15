@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/majordevbhargav/majordevbhargav/main/assets/header.svg" alt="Dev Bhargav profile header" width="100%"/>
+<img src="https://github.com/majordevbhargav/majordevbhargav/raw/refs/heads/main/assets/header.svg" alt="Dev Bhargav profile header" width="100%"/>
 
 ## Software Engineering | Enterprise Networking | Cybersecurity
 
@@ -8,13 +8,11 @@
 
 [Portfolio](https://dev-bhargav-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/devbhargav100) · [GitHub](https://github.com/majordevbhargav)
 
-<img src="https://komarev.com/ghpvc/?username=majordevbhargav&label=Profile%20Views&color=38bdf8&style=flat" alt="Profile views"/>
-
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/majordevbhargav/majordevbhargav/main/assets/project-journey.svg" alt="Project journey" width="100%"/>
+<img src="https://github.com/majordevbhargav/majordevbhargav/raw/refs/heads/main/assets/project-journey.svg" alt="Project journey" width="100%"/>
 
 ## About Me
 
@@ -30,7 +28,7 @@ My current work sits at the intersection of:
 
 I like building around real operational problems and turning them into tools that are useful, understandable, and extensible.
 
-<img src="https://raw.githubusercontent.com/majordevbhargav/majordevbhargav/main/assets/network-security-stack.svg" alt="Technology stack" width="100%"/>
+<img src="https://github.com/majordevbhargav/majordevbhargav/raw/refs/heads/main/assets/network-security-stack.svg" alt="Technology stack" width="100%"/>
 
 ## What I'm Working With
 
@@ -171,12 +169,13 @@ Keeping this section intentionally short so the profile focuses on the work that
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=majordevbhargav&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&title_color=7dd3fc&icon_color=38bdf8&text_color=c8e4f3&bg_color=071a2b" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majordevbhargav&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&title_color=7dd3fc&text_color=c8e4f3&bg_color=071a2b" height="165" alt="Top languages"/>
+<a href="https://github.com/majordevbhargav?tab=repositories">
+<img src="https://github.com/majordevbhargav/majordevbhargav/raw/refs/heads/main/assets/network-security-stack.svg" alt="Dev Bhargav technology stack" width="92%"/>
+</a>
 
-<br/>
+**My contribution calendar and repository activity are available directly on my GitHub profile.**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=majordevbhargav&bg_color=071a2b&color=7dd3fc&line=38bdf8&point=e0f2fe&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution activity graph"/>
+[View GitHub Activity →](https://github.com/majordevbhargav)
 
 </div>
 
