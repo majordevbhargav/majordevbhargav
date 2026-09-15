@@ -45,7 +45,7 @@ Endpoint posture assessment and Cisco ISE visibility platform connecting endpoin
 ### Network Automation
 Cisco automation workflows using **Python, Netmiko and APIs**, alongside CLI, Python and Ansible LAN automation projects.
 
-[Python Automation →](https://github.com/majordevbhargav/Network-Automation-With-Python) · [CLI](https://github.com/majordevbhargav/CLI-LAN-Automation) · [Ansible](https://github.com/majordevbhargav/Ansible-Lan-Automation)
+[Python Automation →](https://github.com/majordevbhargav/Network-Automation-With-Python) · [CLI→](https://github.com/majordevbhargav/CLI-LAN-Automation) · [Ansible](https://github.com/majordevbhargav/Ansible-Lan-Automation)
 
 ## Tech Stack
 
