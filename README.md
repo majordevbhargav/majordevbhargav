@@ -2,35 +2,35 @@
 
 <img src="./assets/header.svg" alt="Dev Bhargav profile header" width="100%"/>
 
-## Java & Web Development · Enterprise Networking · Cybersecurity
+## Software Engineering | Enterprise Networking | Cybersecurity
 
 **Building software, automating infrastructure, and turning network telemetry into security intelligence.**
 
 [Portfolio](https://dev-bhargav-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/devbhargav100) · [GitHub](https://github.com/majordevbhargav)
 
-<img src="https://komarev.com/ghpvc/?username=majordevbhargav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=majordevbhargav&label=Profile%20Views&color=4ade80&style=flat" alt="Profile views"/>
 
 </div>
 
 ---
 
-<img src="./assets/project-journey.svg" alt="Project journey: build, automate, observe, secure and network intelligence" width="100%"/>
+<img src="./assets/project-journey.svg" alt="Project journey" width="100%"/>
 
 ## About Me
 
-I'm a Computer Science engineer focused on building **practical software and infrastructure systems**.
+I'm a Computer Science engineer focused on building **practical software, networking, automation, and security systems**.
 
 My current work sits at the intersection of:
 
-- **Software Development** — Java, Spring Boot, Next.js, React, PostgreSQL and REST APIs
-- **Enterprise Networking** — Cisco IOS/IOS XE, routing & switching, SD-WAN, VLANs and Cisco ISE
-- **Network Automation** — Python, Netmiko, Ansible and CLI/API automation
-- **Security & Observability** — NetFlow, endpoint posture, anomaly detection, XDR and security telemetry
-- **Network Intelligence** — experimenting with AI/ML to make network security systems more context-aware
+- **Software Development** - Java, Spring Boot, Next.js, React, PostgreSQL and REST APIs
+- **Enterprise Networking** - Cisco IOS/IOS XE, routing and switching, VLANs, STP, SD-WAN and Cisco ISE
+- **Network Automation** - Python, Netmiko, Ansible and CLI/API automation
+- **Security and Observability** - NetFlow, endpoint posture, anomaly detection, XDR and security telemetry
+- **Network Intelligence** - exploring AI/ML and contextual detection for smarter security systems
 
-I prefer building systems around real operational problems instead of creating projects only to demonstrate a technology.
+I like building around real operational problems and turning them into tools that are useful, understandable, and extensible.
 
-<img src="./assets/network-security-stack.svg" alt="Technology stack: software, networking, automation and security" width="100%"/>
+<img src="./assets/network-security-stack.svg" alt="Technology stack" width="100%"/>
 
 ## What I'm Working With
 
@@ -38,32 +38,20 @@ I prefer building systems around real operational problems instead of creating p
 |---|---|
 | **Backend** | Java · Spring Boot · REST APIs · PostgreSQL |
 | **Frontend** | Next.js · React · JavaScript · HTML · CSS |
-| **Networking** | Cisco IOS / IOS XE · Routing & Switching · VLAN · STP · SD-WAN · Cisco ISE |
+| **Networking** | Cisco IOS / IOS XE · Routing · Switching · VLAN · STP · SD-WAN · Cisco ISE |
 | **Automation** | Python · Netmiko · Ansible · CLI Automation · Network APIs |
 | **Security** | Network Security · Endpoint Posture · XDR · Identity-aware Access |
 | **Telemetry** | NetFlow · Traffic Analysis · Network Observability · Anomaly Detection |
 | **Data / Cloud** | PostgreSQL · MongoDB · AWS · Git |
-| **Learning** | AI/ML · Network Intelligence · System Design · Open Source |
+| **Exploring** | AI/ML · Network Intelligence · System Design · Open Source |
 
 ## What I Want to Achieve
 
-My long-term goal is to become a **strong software and network-security engineer** who can work across application development, infrastructure and security rather than treating them as separate domains.
+My goal is to become a strong **software and network-security engineer** who can work across applications, infrastructure, automation, and security.
 
-### Near Term
+I want to build systems that go beyond detecting an event. They should understand **context, identity, risk, and impact**, then help explain what the event means and what should happen next.
 
-- Strengthen **Java + Spring Boot + Next.js + PostgreSQL** for production-quality application development.
-- Build deeper expertise in **Cisco enterprise networking and security**.
-- Improve network automation with **Python, Netmiko and Ansible**.
-- Build and document practical security tools that can be understood and reproduced by others.
-
-### Next Stage
-
-- Turn network telemetry into **actionable security intelligence**.
-- Explore better anomaly detection using **context, identity, asset criticality and AI/ML**.
-- Learn more about production architecture, distributed systems and scalable security platforms.
-- Contribute to meaningful **open-source networking, automation and cybersecurity projects**.
-
-### Long Term
+### My Direction
 
 ```text
 Software Engineering
@@ -79,7 +67,15 @@ AI / ML
 Network Intelligence Platforms
 ```
 
-I want to build systems that don't just **detect problems**, but help explain **why they matter and what should happen next**.
+### Next Goals
+
+- Build production-quality applications with **Java, Spring Boot, Next.js and PostgreSQL**.
+- Go deeper into **Cisco enterprise networking, ISE, SD-WAN and security**.
+- Improve network automation using **Python, Netmiko and Ansible**.
+- Build stronger **NetFlow and telemetry analysis** systems.
+- Explore **context-aware anomaly detection and AI/ML for network security**.
+- Learn more about scalable architecture, distributed systems and security platforms.
+- Contribute to useful open-source projects in networking, automation and cybersecurity.
 
 ## Featured Projects
 
@@ -87,7 +83,7 @@ I want to build systems that don't just **detect problems**, but help explain **
 
 **Multi-source network security telemetry and incident correlation.**
 
-XDR Hub is the current direction of my network-security work. It combines signals from **FlowWatch, Cisco ISE and Secure Network Analytics-style telemetry** to create a higher-level view of suspicious hosts and prioritize security incidents.
+XDR Hub is the current direction of my network-security work. It brings together signals from **FlowWatch, Cisco ISE and network analytics telemetry** to create a higher-level view of suspicious hosts and security incidents.
 
 The goal is to move from isolated alerts toward **correlated, host-oriented security intelligence**.
 
@@ -97,13 +93,13 @@ The goal is to move from isolated alerts toward **correlated, host-oriented secu
 
 **NetFlow-based network traffic intelligence and anomaly detection.**
 
-FlowWatch ingests network flows and uses multiple detection lenses instead of relying on a single model:
+FlowWatch uses multiple detection lenses instead of relying on a single model:
 
-- **Traffic-Only** — packet, byte, duration and traffic-rate behaviour.
-- **Context-Aware** — device identity, VLAN, role, destination familiarity and port-scan behaviour.
-- **Risk-Informed** — anomaly signals + asset criticality → 0–100 risk score and operational tier.
+- **Traffic-Only** - packet, byte, duration and traffic-rate behaviour
+- **Context-Aware** - device identity, VLAN, role, destination familiarity and port-scan behaviour
+- **Risk-Informed** - anomaly signals combined with asset criticality to produce a 0-100 risk score
 
-It is inspired by the operational model of network-analytics platforms such as Cisco Secure Network Analytics / Stealthwatch.
+Inspired by the operational model of network analytics platforms such as Cisco Secure Network Analytics / Stealthwatch.
 
 [View FlowWatch →](https://github.com/majordevbhargav/FlowWatch)
 
@@ -111,7 +107,7 @@ It is inspired by the operational model of network-analytics platforms such as C
 
 **AI-assisted resume and job matching platform.**
 
-A web application designed to reduce repetitive job-application work by analysing resumes, identifying skills and helping match candidates with relevant roles.
+A web application designed to reduce repetitive job-application work by analysing resumes, identifying skills, scoring profiles, and matching candidates with relevant roles.
 
 **Stack:** Java · Spring Boot · Next.js · PostgreSQL
 
@@ -119,9 +115,9 @@ A web application designed to reduce repetitive job-application work by analysin
 
 ### 04 · Posture Check
 
-**Endpoint posture assessment and Cisco ISE session visibility.**
+**Endpoint posture assessment and Cisco ISE visibility.**
 
-A practical security platform combining endpoint-side posture information with network-access context and dashboard-based visibility.
+A security platform for collecting endpoint posture information, connecting it with network-access context, and presenting the results through a dashboard.
 
 [View Posture Check →](https://github.com/majordevbhargav/Posture_Check)
 
@@ -133,33 +129,17 @@ Practical automation workflows for reducing repetitive network configuration and
 
 [View Network Automation →](https://github.com/majordevbhargav/Network-Automation-With-Python)
 
-### 06 · Context-Aware Network Anomaly Detection
-
-**Researching how network context can improve anomaly detection.**
-
-Explores the use of device identity, VLAN, role, destination familiarity and other environmental context to make network anomaly detection more useful than traffic-only approaches.
-
-[View project →](https://github.com/majordevbhargav/Context-Aware-Network-Anomaly-Detection)
-
-### 07 · SD-WAN SIM
+### 06 · SD-WAN SIM
 
 **Java-based SD-WAN behaviour and routing simulation.**
 
-Experiments with MPLS, Broadband and LTE links, health scoring, type-based routing and z-score anomaly detection.
+Experiments with MPLS, Broadband and LTE links, health scoring, type-based routing, and z-score anomaly detection.
 
 [View SD-WAN SIM →](https://github.com/majordevbhargav/SDWAN-SIM)
 
-### 08 · SentinelX
-
-**Network-security experimentation and detection concepts.**
-
-An earlier project in my security journey that helped shape the detection ideas later developed into FlowWatch and XDR Hub.
-
-[View SentinelX →](https://github.com/majordevbhargav/sentinelx)
-
 ## Network Automation Journey
 
-I have explored LAN automation through several approaches, moving from direct CLI operations toward programmable and declarative automation:
+I have explored LAN automation through three approaches, moving from direct CLI operations toward programmable and declarative automation:
 
 ```text
 CLI-LAN-Automation
@@ -169,75 +149,44 @@ LAN-Automation (Python)
 Ansible-Lan-Automation
 ```
 
-- [CLI-LAN-Automation](https://github.com/majordevbhargav/CLI-LAN-Automation) — CLI-based network automation experiments.
-- [LAN-Automation](https://github.com/majordevbhargav/LAN-Automation) — Python-based network automation workflows.
-- [Ansible-Lan-Automation](https://github.com/majordevbhargav/Ansible-Lan-Automation) — declarative automation using Ansible.
+- [CLI-LAN-Automation](https://github.com/majordevbhargav/CLI-LAN-Automation) - CLI-based network automation experiments
+- [LAN-Automation](https://github.com/majordevbhargav/LAN-Automation) - Python-based network automation workflows
+- [Ansible-Lan-Automation](https://github.com/majordevbhargav/Ansible-Lan-Automation) - declarative network automation using Ansible
 
-## Other Projects & Repositories
+## A Few More Projects
 
-Not every repository needs to be a flagship project. Some are learning repositories, experiments or focused implementations that document the technologies I'm working through.
+Keeping this section intentionally short so the profile focuses on the work that best represents my current direction.
 
-| Repository | Description |
+| Repository | What it is |
 |---|---|
-| [SubnetKit](https://github.com/majordevbhargav/subnet_kit) | Next.js-based IPv4 subnet/CIDR calculator, VLSM planner and IPv6 prefix calculator with visual range and bit representations. |
-| [TCP-IP-Sockets](https://github.com/majordevbhargav/TCP-IP-Sockets) | Java networking experiments focused on TCP/IP socket programming and client-server communication. |
-| [Core-Java](https://github.com/majordevbhargav/Core-Java) | Structured Core Java learning notes and examples covering fundamental Java concepts and OOP. |
-| [Java](https://github.com/majordevbhargav/Java) | Java practice repository for learning and experimenting with Java programming concepts. |
-| [Intellija-java](https://github.com/majordevbhargav/Intellija-java) | Java development and IDE-based practice projects. |
-| [Javascript](https://github.com/majordevbhargav/Javascript) | JavaScript learning and practice repository. |
-| [Alumni-connect](https://github.com/majordevbhargav/Alumni-connect) | Alumni networking platform with profiles, posts, groups, events, connections, messaging and role-based access. |
-| [FoodieHub](https://github.com/majordevbhargav/FoodieHub) | Web application project focused on food discovery and related frontend development practice. |
-| [News_app](https://github.com/majordevbhargav/News_app) | News application project for working with APIs, frontend interfaces and dynamic content. |
-| [Smart_Job_Application_Website](https://github.com/majordevbhargav/Smart_Job_Application_Website) | Job-application workflow project focused on simplifying and organizing the application process. |
-| [Smart_Job_Application](https://github.com/majordevbhargav/Smart_Job_Application) | Experimental smart job-application project and workflow implementation. |
-| [role-match-app](https://github.com/majordevbhargav/role-match-app) | Role-matching application exploring skills-to-job matching concepts. |
-| [ai-carrermatch-by-devbhargav](https://github.com/majordevbhargav/ai-carrermatch-by-devbhargav) | AI-focused Career Match experiment for resume and role analysis. |
-| [pathai-by-devbhargav](https://github.com/majordevbhargav/pathai-by-devbhargav) | Earlier PathAI/Career Match prototype exploring AI-assisted career guidance. |
-| [Sigma-Web-Dev-Course](https://github.com/majordevbhargav/Sigma-Web-Dev-Course) | Web-development learning repository covering practical frontend and full-stack concepts. |
-| [complete-web-development-with-bootcamp](https://github.com/majordevbhargav/complete-web-development-with-bootcamp) | Web-development bootcamp practice and learning exercises. |
-| [My_Portfolio](https://github.com/majordevbhargav/My_Portfolio) | Personal portfolio website and frontend presentation project. |
-| [Fluid-Portfolio](https://github.com/majordevbhargav/Fluid-Portfolio) | Portfolio UI project focused on modern responsive frontend design. |
-| [University_Deepcrawler](https://github.com/majordevbhargav/University_Deepcrawler) | Web-crawling/data-collection project for extracting structured university information. |
-| [Japan_career_intel](https://github.com/majordevbhargav/Japan_career_intel) | Research-data project for collecting and filtering Japanese university and faculty information for career and study research. |
-| [Japan_Universal_Planner](https://github.com/majordevbhargav/Japan_Universal_Planner) | Planning/research application built around organizing a Japan study and career pathway. |
-| [AniJourney-AI](https://github.com/majordevbhargav/AniJourney-AI) | AI-focused project exploring creative and interactive application experiences. |
-| [vibe-coding-platform](https://github.com/majordevbhargav/vibe-coding-platform) | Experiment around AI-assisted development and rapid application building. |
-| [Assessment_Product_Manager](https://github.com/majordevbhargav/Assessment_Product_Manager) | Product/assessment-oriented project for exploring structured workflows and evaluation concepts. |
-| [Basics](https://github.com/majordevbhargav/Basics) | Small programming fundamentals and practice repository. |
+| [SubnetKit](https://github.com/majordevbhargav/subnet_kit) | Next.js networking toolkit for IPv4 subnetting, VLSM planning and IPv6 prefix calculations with visualizations. |
+| [TCP-IP-Sockets](https://github.com/majordevbhargav/TCP-IP-Sockets) | Java TCP/IP socket programming and client-server networking experiments. |
+| [Core-Java](https://github.com/majordevbhargav/Core-Java) | Core Java notes and examples covering Java fundamentals and OOP. |
+| [Alumni-connect](https://github.com/majordevbhargav/Alumni-connect) | Alumni networking platform with profiles, posts, groups, events, connections and messaging. |
+| [University_Deepcrawler](https://github.com/majordevbhargav/University_Deepcrawler) | Web-crawling project for collecting structured university information. |
+| [Japan_career_intel](https://github.com/majordevbhargav/Japan_career_intel) | Research-data project for collecting and filtering Japanese university and faculty information. |
+| [My_Portfolio](https://github.com/majordevbhargav/My_Portfolio) | Personal portfolio and frontend presentation project. |
 
-## Project Map
+## GitHub Activity
 
-```text
-                    DEV BHARGAV
-                         │
-        ┌────────────────┴────────────────┐
-        │                                 │
- Software Engineering              Network Engineering
-        │                                 │
- Java · Spring Boot                Cisco · SD-WAN · ISE
- Next.js · React                   NetFlow · Routing
- PostgreSQL                         Automation
-        │                                 │
-        └──────────────┬──────────────────┘
-                       │
-                 Cybersecurity
-                       │
-          Posture · Anomaly Detection
-             XDR · Security Telemetry
-                       │
-                       ▼
-              Network Intelligence
-                       │
-                    AI / ML
-```
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=majordevbhargav&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majordevbhargav&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=majordevbhargav&bg_color=00000000&color=4ade80&line=4ade80&point=86efac&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution activity graph"/>
+
+</div>
 
 ## Currently Building
 
-- Java and Spring Boot applications with modern Next.js frontends.
-- Network-security tooling around **NetFlow, Cisco ISE, endpoint posture and XDR**.
-- Automation workflows using **Python, Netmiko and Ansible**.
-- Detection systems that combine **traffic + identity + context + risk**.
-- Practical experiments with **AI/ML for network intelligence**.
+- **Cisco XDR / XDR Hub** - correlating network-security signals into a unified security view
+- **FlowWatch** - improving network telemetry and anomaly detection
+- **Java + Spring Boot + Next.js** - building stronger full-stack applications
+- **Network Automation** - expanding Python, Netmiko and Ansible workflows
+- **Network Intelligence** - exploring context, risk scoring and AI/ML-assisted detection
 
 ## Open Source Direction
 
@@ -247,11 +196,11 @@ Areas I want to contribute to:
 
 - Network automation
 - Cisco ecosystems
-- Python / Java tooling
+- Python and Java tooling
 - Ansible
 - Network observability
 - Cybersecurity
-- XDR / telemetry correlation
+- XDR and telemetry correlation
 - AI/ML for network intelligence
 
 ## Certifications & Learning
@@ -259,27 +208,15 @@ Areas I want to contribute to:
 - AWS Cloud Foundations
 - Cisco Networking Basics
 - Cisco Cybersecurity Essentials
-- Java / Spring Boot development
+- Java and Spring Boot development
 - Network automation with Python, Netmiko and Ansible
 
-## Final Direction
+## Contact
 
-```text
-Write Software
-      ↓
-Automate Infrastructure
-      ↓
-Collect Telemetry
-      ↓
-Understand Context
-      ↓
-Detect & Prioritize Risk
-      ↓
-Build Network Intelligence
-```
+If you are working on **software engineering, networking, automation, cybersecurity, or network intelligence**, I'd be happy to connect.
 
 <div align="center">
 
-### **Build it. Automate it. Observe it. Secure it. Make it smarter.**
+**Build it. Automate it. Observe it. Secure it. Make it smarter.**
 
 </div>
