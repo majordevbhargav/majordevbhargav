@@ -2,9 +2,9 @@
 
 <img src="./assets/header.svg" alt="Dev Bhargav profile header" width="100%"/>
 
-## Enterprise Networking · Network Automation · Cybersecurity
+## Java & Web Development · Enterprise Networking · Cybersecurity
 
-I build practical systems around **Cisco networking, automation, security, and network intelligence**.
+I build practical software and security systems where **Java, web development, networking, automation, and security** meet.
 
 [Portfolio](https://dev-bhargav-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/devbhargav100) · [GitHub](https://github.com/majordevbhargav)
 
@@ -12,116 +12,129 @@ I build practical systems around **Cisco networking, automation, security, and n
 
 ## About
 
-I'm a networking-focused engineer interested in the space where **infrastructure, automation, security, and software** meet.
+I'm a Computer Science engineer focused on building practical systems rather than simply collecting technologies.
 
-My work is mostly centered around Cisco enterprise networking, Python and Ansible automation, Cisco ISE, SD-WAN, NetFlow, endpoint posture, and experiments with AI/ML for network intelligence.
+My work spans two closely connected areas: **software development** with Java, Spring Boot, Next.js and PostgreSQL, and **enterprise networking/security** with Cisco technologies, Python, Ansible, Cisco ISE, NetFlow and network intelligence.
 
-I prefer building tools that solve an actual operational problem rather than collecting technologies for the sake of a longer skills list.
+I enjoy turning operational problems into working tools — from network automation and endpoint visibility to traffic analysis, anomaly detection and security telemetry.
 
-## Tools I work with
+## Technical Focus
 
 | Area | Technologies |
 |---|---|
-| Networking | Cisco IOS / IOS XE · Routing & Switching · SD-WAN · Cisco ISE |
-| Automation | Python · Netmiko · Ansible · CLI automation |
-| Security | Network Security · Endpoint Posture · Identity-aware Access |
-| Observability | NetFlow · Traffic Analysis · Anomaly Detection |
-| Software | Java · React · APIs · Databases |
+| Software Development | Java · Spring Boot · Next.js · React · JavaScript · REST APIs · PostgreSQL |
+| Networking | Cisco IOS / IOS XE · Routing & Switching · VLAN · STP · SD-WAN · Cisco ISE |
+| Automation | Python · Netmiko · Ansible · CLI Automation |
+| Security | Network Security · Endpoint Posture · Identity-aware Access · XDR |
+| Observability | NetFlow · Traffic Analysis · Network Telemetry · Anomaly Detection |
+| Data & Tools | PostgreSQL · MongoDB · Git · AWS |
 | Exploring | AI/ML · Network Intelligence · Open Source |
 
-## Selected projects
+## Featured Projects
+
+### Cisco XDR / XDR Hub
+
+**Multi-source network security telemetry and incident correlation.**
+
+XDR Hub is the next step in my network-security projects. It brings together telemetry from **FlowWatch, Cisco ISE, and Cisco Secure Network Analytics** to provide a higher-level view of suspicious activity and prioritize IP-based security incidents.
+
+The project explores how network traffic, identity, posture and security telemetry can be combined instead of investigating each signal separately.
+
+[View Cisco XDR →](https://github.com/majordevbhargav/Cisco-XDR)
 
 ### FlowWatch
 
 **NetFlow-based network traffic intelligence and anomaly detection.**
 
-FlowWatch ingests network flows and combines traffic behaviour with network context to prioritize suspicious activity. It includes traffic-only, context-aware, and risk-informed detection paths.
+FlowWatch started from the question: how can raw network flows become useful security intelligence?
 
-<div align="center">
+It combines traffic behaviour with network context through three detection approaches:
 
-<a href="https://github.com/majordevbhargav/FlowWatch">
-<img src="https://raw.githubusercontent.com/majordevbhargav/FlowWatch/main/assets/flowwatch-dashboard.png" alt="FlowWatch dashboard" width="820"/>
-</a>
-
-</div>
+- **Traffic-Only** — identifies unusual packet, byte, duration and traffic-rate behaviour.
+- **Context-Aware** — considers device identity, VLAN, role, destination familiarity and port-scanning behaviour.
+- **Risk-Informed** — combines anomaly signals with asset criticality to produce a 0–100 risk score and recommended severity/action.
 
 [View FlowWatch →](https://github.com/majordevbhargav/FlowWatch)
 
-> Screenshot placeholder: if the repository does not contain `assets/flowwatch-dashboard.png`, the image will not render until a dashboard screenshot is added there.
+### SentinelX
 
-### Network Automation with Python
+**An earlier network-security experimentation platform.**
 
-**Cisco network automation using Python, Netmiko and APIs.**
+SentinelX was part of my exploration into network security monitoring and detection, helping establish the ideas that later evolved into FlowWatch and XDR Hub.
 
-A collection of practical automation workflows for interacting with network devices and reducing repetitive configuration work.
-
-<div align="center">
-
-<a href="https://github.com/majordevbhargav/Network-Automation-With-Python">
-<img src="https://raw.githubusercontent.com/majordevbhargav/Network-Automation-With-Python/main/Screenshot%202026-08-03%20173939.png" alt="Network automation project screenshot" width="820"/>
-</a>
-
-</div>
-
-[View Network Automation →](https://github.com/majordevbhargav/Network-Automation-With-Python)
+[View SentinelX →](https://github.com/majordevbhargav/sentinelx)
 
 ### Posture Check
 
 **Endpoint posture assessment and Cisco ISE session visibility.**
 
-A practical platform combining endpoint-side checks, posture information, session monitoring, and a dashboard for network-access visibility.
+A practical platform for collecting endpoint posture information, connecting it with network-access context and presenting visibility through a dashboard.
 
 [View Posture Check →](https://github.com/majordevbhargav/Posture_Check)
 
-### Context-Aware Network Anomaly Detection
+### Network Automation with Python
 
-**Detect unusual network behaviour using traffic plus environmental context.**
+**Cisco network automation using Python, Netmiko and APIs.**
 
-The project explores how device identity, VLAN, role, destination familiarity and other context can make anomaly detection more useful than traffic-only models.
+A collection of practical automation workflows designed to make repetitive network configuration and operational tasks programmable and reusable.
 
-[View project →](https://github.com/majordevbhargav/Context-Aware-Network-Anomaly-Detection)
-
-### Cisco XDR
-
-**Security telemetry and threat-visibility experimentation.**
-
-[View project →](https://github.com/majordevbhargav/Cisco-XDR)
+[View Network Automation →](https://github.com/majordevbhargav/Network-Automation-With-Python)
 
 ### SD-WAN SIM
 
-**Experiments around SD-WAN concepts, behaviour and network simulation.**
+**A Java-based simulation of SD-WAN concepts and network behaviour.**
 
-[View project →](https://github.com/majordevbhargav/SDWAN-SIM)
+The project experiments with MPLS, Broadband and LTE links, health scoring, type-based routing and z-score-based anomaly detection.
+
+[View SD-WAN SIM →](https://github.com/majordevbhargav/SDWAN-SIM)
+
+### Career Match
+
+**AI-assisted resume and job matching platform.**
+
+A web application focused on reducing the repetitive work involved in job applications by analysing resumes, evaluating skills and helping users identify suitable roles.
+
+Built around **Java, Spring Boot, Next.js and PostgreSQL**.
+
+[View Career Match →](https://github.com/majordevbhargav/career_match)
+
+## The Journey
+
+My projects follow a progression from **automation to security intelligence**:
+
+```text
+Network Automation
+        ↓
+   SentinelX
+        ↓
+   FlowWatch
+        ↓
+Cisco ISE + Network Telemetry
+        ↓
+    XDR Hub
+        ↓
+Network Intelligence + AI/ML
+```
+
+At the same time, I'm strengthening my software-development path with **Java, Spring Boot, Next.js and PostgreSQL**.
 
 ## Currently
 
 - Building deeper hands-on expertise in enterprise networking and Cisco security
-- Exploring AI/ML approaches for network intelligence and anomaly detection
-- Learning how mature networking projects are built and maintained in open source
-- Looking for opportunities to contribute to networking, Python, Ansible and cybersecurity projects
+- Developing Java and web applications with Spring Boot and Next.js
+- Exploring network telemetry, anomaly detection and XDR concepts
+- Working with Python, Netmiko and Ansible for network automation
+- Exploring AI/ML approaches for network intelligence
+- Looking for opportunities to contribute to networking, software, automation and cybersecurity projects
 
-## Open source
+## Open Source
 
-I'm especially interested in contributing where **networking meets software**: network automation, Cisco ecosystems, Python, Ansible, observability, and defensive security.
+I'm interested in projects where **networking meets software** — especially network automation, Cisco ecosystems, Python, Ansible, observability, defensive security and network intelligence.
 
-If you're building something in that space, feel free to open an issue or discussion in the relevant repository.
-
-## The direction
-
-```text
-Enterprise Networking
-        ↓
-Network Automation
-        ↓
-Security & Observability
-        ↓
-Network Intelligence
-        ↓
-AI / ML
-```
+If you're building something in this space, feel free to open an issue or discussion in the relevant repository.
 
 <div align="center">
 
-**Build it. Automate it. Observe it. Make it smarter.**
+**Build it. Automate it. Observe it. Secure it. Make it smarter.**
 
 </div>
