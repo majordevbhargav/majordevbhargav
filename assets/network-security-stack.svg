@@ -1,28 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Dev Bhargav technology stack</title>
-  <desc id="desc">Software, networking, automation, security and intelligence technologies used by Dev Bhargav.</desc>
-  <rect width="1200" height="360" rx="24" fill="#0b1220"/>
-  <g font-family="Arial, sans-serif">
-    <text x="600" y="42" text-anchor="middle" fill="#f8fafc" font-size="24" font-weight="700">WHAT I'M WORKING WITH</text>
-    <g transform="translate(55,80)">
-      <rect width="210" height="220" rx="18" fill="#111827" stroke="#334155"/>
-      <text x="105" y="35" text-anchor="middle" fill="#38bdf8" font-size="18" font-weight="700">SOFTWARE</text>
-      <text x="25" y="75" fill="#cbd5e1" font-size="15">Java</text><text x="25" y="103" fill="#cbd5e1" font-size="15">Spring Boot</text><text x="25" y="131" fill="#cbd5e1" font-size="15">Next.js · React</text><text x="25" y="159" fill="#cbd5e1" font-size="15">PostgreSQL</text><text x="25" y="187" fill="#cbd5e1" font-size="15">REST APIs · Git</text>
-    </g>
-    <g transform="translate(305,80)">
-      <rect width="210" height="220" rx="18" fill="#111827" stroke="#334155"/>
-      <text x="105" y="35" text-anchor="middle" fill="#38bdf8" font-size="18" font-weight="700">NETWORKING</text>
-      <text x="25" y="75" fill="#cbd5e1" font-size="15">Cisco IOS / IOS XE</text><text x="25" y="103" fill="#cbd5e1" font-size="15">Routing &amp; Switching</text><text x="25" y="131" fill="#cbd5e1" font-size="15">SD-WAN</text><text x="25" y="159" fill="#cbd5e1" font-size="15">Cisco ISE</text><text x="25" y="187" fill="#cbd5e1" font-size="15">NetFlow</text>
-    </g>
-    <g transform="translate(555,80)">
-      <rect width="210" height="220" rx="18" fill="#111827" stroke="#334155"/>
-      <text x="105" y="35" text-anchor="middle" fill="#a78bfa" font-size="18" font-weight="700">AUTOMATION</text>
-      <text x="25" y="75" fill="#cbd5e1" font-size="15">Python</text><text x="25" y="103" fill="#cbd5e1" font-size="15">Netmiko</text><text x="25" y="131" fill="#cbd5e1" font-size="15">Ansible</text><text x="25" y="159" fill="#cbd5e1" font-size="15">CLI Automation</text><text x="25" y="187" fill="#cbd5e1" font-size="15">Network APIs</text>
-    </g>
-    <g transform="translate(805,80)">
-      <rect width="210" height="220" rx="18" fill="#111827" stroke="#334155"/>
-      <text x="105" y="35" text-anchor="middle" fill="#c084fc" font-size="18" font-weight="700">SECURITY</text>
-      <text x="25" y="75" fill="#cbd5e1" font-size="15">Network Security</text><text x="25" y="103" fill="#cbd5e1" font-size="15">Endpoint Posture</text><text x="25" y="131" fill="#cbd5e1" font-size="15">XDR / Correlation</text><text x="25" y="159" fill="#cbd5e1" font-size="15">Anomaly Detection</text><text x="25" y="187" fill="#cbd5e1" font-size="15">AI / ML Exploration</text>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071a2b"/><stop offset="1" stop-color="#0d263b"/></linearGradient></defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<text x="600" y="42" text-anchor="middle" fill="#e0f2fe" font-family="Arial,sans-serif" font-size="24" font-weight="700">WHAT I'M WORKING WITH</text>
+<g font-family="Arial,sans-serif">
+<g transform="translate(55,80)"><rect width="210" height="220" rx="18" fill="#0a2032" stroke="#2b607e"/><text x="105" y="35" text-anchor="middle" fill="#7dd3fc" font-size="18" font-weight="700">SOFTWARE</text><text x="25" y="75" fill="#c8e4f3" font-size="15">Java</text><text x="25" y="103" fill="#c8e4f3" font-size="15">Spring Boot</text><text x="25" y="131" fill="#c8e4f3" font-size="15">Next.js · React</text><text x="25" y="159" fill="#c8e4f3" font-size="15">PostgreSQL</text><text x="25" y="187" fill="#c8e4f3" font-size="15">REST APIs · Git</text></g>
+<g transform="translate(305,80)"><rect width="210" height="220" rx="18" fill="#0a2032" stroke="#2b607e"/><text x="105" y="35" text-anchor="middle" fill="#7dd3fc" font-size="18" font-weight="700">NETWORKING</text><text x="25" y="75" fill="#c8e4f3" font-size="15">Cisco IOS / IOS XE</text><text x="25" y="103" fill="#c8e4f3" font-size="15">Routing &amp; Switching</text><text x="25" y="131" fill="#c8e4f3" font-size="15">SD-WAN</text><text x="25" y="159" fill="#c8e4f3" font-size="15">Cisco ISE</text><text x="25" y="187" fill="#c8e4f3" font-size="15">NetFlow</text></g>
+<g transform="translate(555,80)"><rect width="210" height="220" rx="18" fill="#0a2032" stroke="#2b607e"/><text x="105" y="35" text-anchor="middle" fill="#7dd3fc" font-size="18" font-weight="700">AUTOMATION</text><text x="25" y="75" fill="#c8e4f3" font-size="15">Python</text><text x="25" y="103" fill="#c8e4f3" font-size="15">Netmiko</text><text x="25" y="131" fill="#c8e4f3" font-size="15">Ansible</text><text x="25" y="159" fill="#c8e4f3" font-size="15">CLI Automation</text><text x="25" y="187" fill="#c8e4f3" font-size="15">Network APIs</text></g>
+<g transform="translate(805,80)"><rect width="210" height="220" rx="18" fill="#0a2032" stroke="#2b607e"/><text x="105" y="35" text-anchor="middle" fill="#7dd3fc" font-size="18" font-weight="700">SECURITY</text><text x="25" y="75" fill="#c8e4f3" font-size="15">Network Security</text><text x="25" y="103" fill="#c8e4f3" font-size="15">Endpoint Posture</text><text x="25" y="131" fill="#c8e4f3" font-size="15">XDR / Correlation</text><text x="25" y="159" fill="#c8e4f3" font-size="15">Anomaly Detection</text><text x="25" y="187" fill="#c8e4f3" font-size="15">AI / ML Exploration</text></g>
+</g></svg>
