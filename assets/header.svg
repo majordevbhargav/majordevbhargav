@@ -1,26 +1,22 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
-  <g fill="none" stroke="#334155" stroke-width="1" opacity="0.55">
-    <path d="M0 210L180 80L350 180L520 45L700 155L870 65L1040 145L1200 35"/>
-    <path d="M0 235L180 105L350 205L520 70L700 180L870 90L1040 170L1200 60"/>
-  </g>
-  <g fill="#38bdf8" opacity="0.9">
-    <circle cx="180" cy="80" r="4"/><circle cx="350" cy="180" r="4"/><circle cx="520" cy="45" r="4"/>
-    <circle cx="700" cy="155" r="4"/><circle cx="870" cy="65" r="4"/><circle cx="1040" cy="145" r="4"/>
-  </g>
-  <rect x="90" y="214" width="1020" height="2" fill="url(#line)"/>
-  <text x="600" y="92" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">DEV BHARGAV</text>
-  <text x="600" y="133" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="19">Enterprise Networking • Automation • Security • Network Intelligence</text>
-  <text x="600" y="174" text-anchor="middle" fill="#38bdf8" font-family="monospace" font-size="16">Cisco  /  Python  /  Ansible  /  NetFlow  /  AI</text>
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071a2b"/><stop offset="1" stop-color="#0d263b"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7dd3fc"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#1e4663" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="280" rx="18" fill="url(#bg)"/><rect width="1200" height="280" rx="18" fill="url(#grid)" opacity=".55"/>
+<text x="32" y="30" fill="#7da2bc" font-family="monospace" font-size="13">main / profile</text>
+<text x="82" y="102" fill="#e0f2fe" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700">Dev Bhargav</text>
+<text x="84" y="140" fill="#7dd3fc" font-family="monospace" font-size="18" letter-spacing="2">SOFTWARE + NETWORK SECURITY ENGINEER</text>
+<text x="84" y="174" fill="#b6d7e9" font-family="monospace" font-size="15">Java · Spring Boot · Next.js · Cisco · Python · Ansible</text>
+<text x="84" y="202" fill="#7da2bc" font-family="monospace" font-size="14">NetFlow · XDR · ISE · Automation · AI / ML</text>
+<rect x="84" y="224" width="475" height="2" fill="url(#blue)"/>
+<rect x="760" y="50" width="350" height="175" rx="14" fill="#061522" stroke="#28536e"/>
+<rect x="778" y="68" width="314" height="120" rx="7" fill="#0a1d2d" stroke="#1c4058"/>
+<text x="798" y="94" fill="#7dd3fc" font-family="monospace" font-size="13">$ ./build_network_intelligence</text>
+<text x="798" y="120" fill="#c8e4f3" font-family="monospace" font-size="13">&gt; collecting telemetry...</text>
+<text x="798" y="145" fill="#c8e4f3" font-family="monospace" font-size="13">&gt; correlating security signals...</text>
+<text x="798" y="170" fill="#7dd3fc" font-family="monospace" font-size="13">&gt; system ready_</text>
+<circle cx="1048" cy="207" r="5" fill="#38bdf8"/>
+<text x="780" y="248" fill="#6e91a7" font-family="monospace" font-size="12">BUILD · AUTOMATE · OBSERVE · SECURE</text>
 </svg>
