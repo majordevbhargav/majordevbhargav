@@ -22,6 +22,11 @@ My edge is combining **software engineering with enterprise networking and cyber
 
 ## Featured Projects
 
+### Endpoint Posture & Compliance Platform
+Agentless endpoint visibility and compliance platform integrating **Java · Spring Boot · PostgreSQL · PowerShell and Cisco ISE** for endpoint posture, hardware health, historical evidence and controlled network enforcement.
+
+[View Project →](https://github.com/majordevbhargav/Endpoint-Posture-Java)
+
 ### Cisco XDR / XDR Hub
 Multi-source network-security telemetry and incident correlation, bringing together **FlowWatch, Cisco ISE and network analytics** into a host-oriented security view.
 
@@ -45,7 +50,7 @@ Endpoint posture assessment and Cisco ISE visibility platform connecting endpoin
 ### Network Automation
 Cisco automation workflows using **Python, Netmiko and APIs**, alongside CLI, Python and Ansible LAN automation projects.
 
-[Python Automation →](https://github.com/majordevbhargav/Network-Automation-With-Python) · [CLI→](https://github.com/majordevbhargav/CLI-LAN-Automation) · [Ansible](https://github.com/majordevbhargav/Ansible-Lan-Automation)
+[Python Automation →](https://github.com/majordevbhargav/Network-Automation-With-Python) · [CLI →](https://github.com/majordevbhargav/CLI-LAN-Automation) · [Ansible](https://github.com/majordevbhargav/Ansible-Lan-Automation)
 
 ## Tech Stack
 
