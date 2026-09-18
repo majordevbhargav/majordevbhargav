@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dev Bhargav
+<img src="https://github.com/majordevbhargav/majordevbhargav/raw/refs/heads/main/assets/header.svg" alt="Dev Bhargav profile header" width="100%"/>
 
 ### Software Engineering · Enterprise Networking · Cybersecurity
 
