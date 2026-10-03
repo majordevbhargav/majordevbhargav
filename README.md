@@ -4,7 +4,7 @@
 
 ### Software Engineering · Enterprise Networking · Cybersecurity
 
-**Java · Spring Boot · Next.js · PostgreSQL · Python · Cisco · Automation**
+**Java · Spring Boot · Next.js · Python · Cisco · Ansible · PostgreSQL**
 
 [Portfolio](https://dev-bhargav-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/devbhargav100) · [GitHub](https://github.com/majordevbhargav)
 
@@ -14,81 +14,65 @@
 
 ## About Me
 
-I am a Computer Science engineer building practical systems while continuously strengthening my foundations in software engineering, networking, automation, and cybersecurity.
+Computer Science engineer building practical systems at the intersection of **software engineering, enterprise networking, automation, and cybersecurity**.
 
-My current direction is **full-stack development with Java/Spring Boot and Next.js**, while continuing to build enterprise networking and security projects with Python, Cisco technologies, NetFlow, Ansible, and PostgreSQL.
-
-I prefer learning by building:
+I work primarily with Java/Spring Boot, Next.js, PostgreSQL, Python, Cisco technologies, NetFlow, and Ansible.
 
 **Learn → Build → Debug → Document → Improve**
 
-## Featured Work
+## Featured Engineering
 
-### Endpoint Posture & Compliance Platform
-Endpoint visibility and compliance platform combining Java, Spring Boot, PostgreSQL, PowerShell, and Cisco ISE.
+### 🛡️ Endpoint Posture & Compliance
+Java/Spring Boot platform for endpoint inventory, posture assessment, hardware health, compliance scoring, authentication, and security operations.
 
-[Explore Endpoint-Posture-Java](https://github.com/majordevbhargav/Endpoint-Posture-Java)
+→ [Endpoint-Posture-Java](https://github.com/majordevbhargav/Endpoint-Posture-Java)
 
-### Cisco XDR / XDR Hub
-A lab-scale security analytics platform that correlates network-flow, identity, posture, and security signals into host-oriented incidents.
+### 🌐 FlowWatch
+NetFlow-based network observability and anomaly detection using traffic behaviour, device context, network identity, and risk scoring.
 
-[Explore Cisco-XDR](https://github.com/majordevbhargav/Cisco-XDR)
+→ [FlowWatch](https://github.com/majordevbhargav/FlowWatch)
 
-### FlowWatch
-NetFlow-based network observability and anomaly detection using traffic behaviour, network context, and risk scoring.
+### 🔐 Cisco XDR
+Security analytics system exploring correlation of network flow, identity, endpoint posture, and security signals into host-centric incidents.
 
-[Explore FlowWatch](https://github.com/majordevbhargav/FlowWatch)
+→ [Cisco-XDR](https://github.com/majordevbhargav/Cisco-XDR)
 
-### Career Match
-A full-stack career and resume analysis project built around Java, Spring Boot, Next.js, and PostgreSQL.
+### 🧠 Context-Aware Network Detection
+Research-oriented network anomaly detection combining traffic behaviour with contextual information such as device identity, VLAN, role, destination familiarity, and policy.
 
-[Explore Career Match](https://github.com/majordevbhargav/career_match)
+→ [Context-Aware-Network-Anomaly-Detection](https://github.com/majordevbhargav/Context-Aware-Network-Anomaly-Detection)
 
-### Network Automation
-A progression from CLI automation to Python/Netmiko and Ansible-based network workflows.
+### ⚙️ Network Automation
+Practical progression from CLI automation to Python/Netmiko and Ansible-based network workflows.
 
-[Python](https://github.com/majordevbhargav/Network-Automation-With-Python) · [CLI](https://github.com/majordevbhargav/CLI-LAN-Automation) · [Ansible](https://github.com/majordevbhargav/Ansible-Lan-Automation)
+→ [Network Automation with Python](https://github.com/majordevbhargav/Network-Automation-With-Python)
 
-## Technology Focus
+### 💼 Career Match
+Full-stack career analysis and matching platform using Java, Spring Boot, Next.js, and PostgreSQL.
+
+→ [career_match](https://github.com/majordevbhargav/career_match)
+
+## Technical Focus
 
 | Area | Technologies |
 |---|---|
-| Backend | Java · Spring Boot · REST APIs · PostgreSQL |
-| Frontend | Next.js · React · JavaScript |
+| Backend | Java · Spring Boot · REST APIs · JPA |
+| Frontend | Next.js · React · JavaScript · Tailwind CSS |
+| Data | PostgreSQL · Flyway · SQL |
 | Networking | Cisco · Routing · Switching · SD-WAN · ISE · NetFlow |
-| Automation | Python · Netmiko · Ansible |
+| Automation | Python · Netmiko · Ansible · PowerShell |
+| Security | Endpoint Posture · Network Security · XDR · Traffic Analytics |
 | DevOps | Git · Docker · Linux · CI/CD |
-| Security | Network Security · XDR · Endpoint Posture · Traffic Analytics |
-| Fundamentals | C/C++ · Java · DSA · Computer Networks |
 
-## Learning in Public
+## Other Work
 
-My repositories are intentionally a mix of learning exercises, experiments, tools, and larger systems. The goal is not only to show finished applications, but also to show how my understanding develops from fundamentals into more complete engineering projects.
+**Research & tooling:** [University Deepcrawler](https://github.com/majordevbhargav/University_Deepcrawler) · [Japan Career Intel](https://github.com/majordevbhargav/Japan_career_intel) · [SD-WAN SIM](https://github.com/majordevbhargav/SDWAN-SIM) · [SubnetKit](https://github.com/majordevbhargav/subnet_kit)
 
-Current learning areas include:
+**Foundations:** [Core Java](https://github.com/majordevbhargav/Core-Java) · [TCP/IP Sockets](https://github.com/majordevbhargav/TCP-IP-Sockets) · [LeetCode](https://github.com/majordevbhargav/Leetcode)
 
-- Java and Spring Boot backend development
-- Next.js and modern frontend development
-- PostgreSQL and data modelling
-- DSA and problem solving
-- Network automation with Python and Ansible
-- Network security and Cisco ISE
-- NetFlow-based security analytics
-- System design and production-oriented architecture
+## Engineering Direction
 
-## Long-Term Direction
-
-I am building toward a career where **software engineering, networking, automation, and cybersecurity** meet.
-
-A major personal goal is to continue this learning journey toward **study or work opportunities in Japan**, especially in software engineering, networking, cybersecurity, or related technology fields.
-
-## Selected Projects
-
-[SD-WAN SIM](https://github.com/majordevbhargav/SDWAN-SIM) · [SentinelX](https://github.com/majordevbhargav/sentinelx) · [SubnetKit](https://github.com/majordevbhargav/subnet_kit) · [University Deepcrawler](https://github.com/majordevbhargav/University_Deepcrawler) · [TCP/IP Sockets](https://github.com/majordevbhargav/TCP-IP-Sockets) · [Core Java](https://github.com/majordevbhargav/Core-Java)
-
-## Open Source
-
-Interested in Java, Python, networking, DevOps, automation, defensive cybersecurity, and practical developer tooling.
+I am building toward roles where **software engineering, networking, automation, and defensive cybersecurity** overlap, with a long-term interest in technology opportunities in Japan.
 
 <div align="center">
 
