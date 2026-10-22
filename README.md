@@ -27,11 +27,7 @@ My work includes endpoint posture and compliance, NetFlow-based anomaly detectio
 | [Endpoint-Posture-Java](https://github.com/majordevbhargav/Endpoint-Posture-Java) | Java and Spring Boot platform for endpoint inventory, posture assessment, hardware health, compliance, and security operations. |
 | [FlowWatch](https://github.com/majordevbhargav/FlowWatch) | NetFlow-oriented network observability and anomaly detection, with traffic behaviour and contextual risk signals. |
 | [XDR](https://github.com/majordevbhargav/XDR) | Extended detection and response workflows, including AWS and ServiceNow integrations. EDR containment workflow remains a separate work item. |
-| [Cisco-XDR](https://github.com/majordevbhargav/Cisco-XDR) | Exploration of correlating network, identity, endpoint posture, and security signals into host-centric investigations. |
-| [Context-Aware-Network-Anomaly-Detection](https://github.com/majordevbhargav/Context-Aware-Network-Anomaly-Detection) | Network anomaly detection using traffic behaviour alongside device identity, VLAN, role, and destination context. |
 | [Network-Automation-With-Python](https://github.com/majordevbhargav/Network-Automation-With-Python) | Practical network automation experiments and workflows. |
-| [Ansible-Lan-Automation](https://github.com/majordevbhargav/Ansible-Lan-Automation) | LAN automation experiments using Ansible. |
-| [career_match](https://github.com/majordevbhargav/career_match) | Full-stack career matching and analysis application. |
 
 ## Technical Focus
 
@@ -44,14 +40,6 @@ My work includes endpoint posture and compliance, NetFlow-based anomaly detectio
 | Automation | Python, Netmiko, Ansible, PowerShell |
 | Security | Endpoint posture, network security, XDR workflows, traffic analytics |
 | Engineering tools | Git, Docker, Linux, CI/CD fundamentals |
-
-## More Projects
-
-**Networking and infrastructure:** [SD-WAN SIM](https://github.com/majordevbhargav/SDWAN-SIM) · [TCP/IP Sockets](https://github.com/majordevbhargav/TCP-IP-Sockets) · [SubnetKit](https://github.com/majordevbhargav/subnet_kit) · [LAN Automation](https://github.com/majordevbhargav/LAN-Automation)
-
-**Research and utilities:** [University Deepcrawler](https://github.com/majordevbhargav/University_Deepcrawler) · [Japan Career Intel](https://github.com/majordevbhargav/Japan_career_intel)
-
-**Learning and practice:** [Core Java](https://github.com/majordevbhargav/Core-Java) · [LeetCode](https://github.com/majordevbhargav/Leetcode)
 
 ## What I Value in a Project
 
