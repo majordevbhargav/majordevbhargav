@@ -29,7 +29,6 @@ My work includes endpoint posture and compliance, NetFlow-based anomaly detectio
 | [XDR](https://github.com/majordevbhargav/XDR) | Extended detection and response workflows, including AWS and ServiceNow integrations. EDR containment workflow remains a separate work item. |
 | [Cisco-XDR](https://github.com/majordevbhargav/Cisco-XDR) | Exploration of correlating network, identity, endpoint posture, and security signals into host-centric investigations. |
 | [Context-Aware-Network-Anomaly-Detection](https://github.com/majordevbhargav/Context-Aware-Network-Anomaly-Detection) | Network anomaly detection using traffic behaviour alongside device identity, VLAN, role, and destination context. |
-| [Endpoint-Posture-Java](https://github.com/majordevbhargav/Endpoint-Posture-Java) | Backend-focused endpoint posture and compliance engineering with Java, Spring Boot, and PostgreSQL. |
 | [Network-Automation-With-Python](https://github.com/majordevbhargav/Network-Automation-With-Python) | Practical network automation experiments and workflows. |
 | [Ansible-Lan-Automation](https://github.com/majordevbhargav/Ansible-Lan-Automation) | LAN automation experiments using Ansible. |
 | [career_match](https://github.com/majordevbhargav/career_match) | Full-stack career matching and analysis application. |
