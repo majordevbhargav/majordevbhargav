@@ -4,9 +4,9 @@
 
 <img src="https://github.com/majordevbhargav/majordevbhargav/raw/refs/heads/main/assets/header.svg" alt="Dev Bhargav profile header" width="100%"/>
 
-### Enterprise Networking · Backend Engineering · Cybersecurity
+### Enterprise Networking · Network Automation · Defensive Security
 
-**Java · Spring Boot · Python · Cisco · Ansible · React · PostgreSQL**
+**Cisco · Python · Ansible · Java · Spring Boot · Network Telemetry**
 
 [Portfolio](https://dev-bhargav-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/devbhargav100) · [GitHub](https://github.com/majordevbhargav)
 
@@ -16,49 +16,48 @@
 
 ## About
 
-I build practical software and security tooling at the intersection of **enterprise networking, backend engineering, automation, and defensive security**.
+I build practical tools at the intersection of **enterprise networking, automation, backend engineering, and defensive security**.
 
-My projects explore endpoint posture and compliance, NetFlow-based anomaly detection, security workflow integrations, and repeatable network automation. I aim to make each project understandable and reproducible, with architecture notes that distinguish implemented behaviour from planned work.
+My current work focuses on endpoint posture and compliance with Cisco ISE, NetFlow-based anomaly detection, security workflow automation, and repeatable network operations. I aim to make projects understandable and reproducible, with clear architecture, setup instructions, and honest implementation status.
 
-**How I work:** Understand the problem → Design the system → Build → Test → Document → Iterate
+**Engineering loop:** Understand → Design → Build → Test → Document → Improve
 
 ## Selected Projects
 
 | Project | Focus |
 |---|---|
-| [Endpoint-Posture-Java](https://github.com/majordevbhargav/Endpoint-Posture-Java) | Java and Spring Boot platform for endpoint visibility, posture assessment, compliance evidence, and controlled Cisco ISE actions. |
-| [FlowWatch](https://github.com/majordevbhargav/FlowWatch) | Self-hosted NetFlow observability and context-aware anomaly detection using traffic behaviour, device context, and risk scoring. |
-| [XDR](https://github.com/majordevbhargav/XDR) | Cisco XDR security automation lab with AWS and ServiceNow integration work, automation rules, playbooks, and analyst-guided response. EDR containment remains in progress. |
-| [Network-Automation-With-Python](https://github.com/majordevbhargav/Network-Automation-With-Python) | Python-based networking exercises and operational automation, progressing toward reusable Cisco workflows. |
-| [Context-Aware-Network-Anomaly-Detection](https://github.com/majordevbhargav/Context-Aware-Network-Anomaly-Detection) | Experiments in enriching traffic-based detection with network and asset context. |
-| [My Portfolio](https://github.com/majordevbhargav/My_Portfolio) | Personal portfolio showcasing selected work and engineering interests. |
+| [Endpoint-Posture-Java](https://github.com/majordevbhargav/Endpoint-Posture-Java) | Java and Spring Boot platform for endpoint visibility, posture checks, compliance evidence, and operator-controlled Cisco ISE actions. |
+| [FlowWatch](https://github.com/majordevbhargav/FlowWatch) | NetFlow observability and context-aware anomaly detection, combining traffic behaviour with device and network context. |
+| [XDR](https://github.com/majordevbhargav/XDR) | Cisco XDR automation lab with AWS and ServiceNow integration work, playbooks, and incident-response workflows. EDR containment remains a separate unfinished milestone. |
+| [Network-Automation-With-Python](https://github.com/majordevbhargav/Network-Automation-With-Python) | Practical Python and network-engineering exercises progressing toward repeatable Cisco automation. |
+| [Ansible-Lan-Automation](https://github.com/majordevbhargav/Ansible-Lan-Automation) | Focused experiments in LAN configuration automation with Ansible. |
+| [My Portfolio](https://github.com/majordevbhargav/My_Portfolio) | Personal portfolio showcasing selected work and professional background. |
 
 ## Technical Focus
 
-| Area | Technologies and concepts |
+| Area | Tools and concepts |
 |---|---|
+| Enterprise networking | Cisco, routing and switching, SD-WAN, Cisco ISE, TCP/IP, NetFlow |
+| Network automation | Python, Netmiko, Ansible, PowerShell, device APIs |
+| Defensive security | Endpoint posture, security analytics, XDR workflows, incident response |
 | Backend engineering | Java, Spring Boot, REST APIs, JPA |
-| Frontend | React, Next.js, TypeScript, JavaScript |
-| Data | PostgreSQL, SQL, Flyway |
-| Enterprise networking | Cisco, routing and switching, SD-WAN, ISE, NetFlow, TCP/IP |
-| Automation | Python, Netmiko, Ansible, PowerShell |
-| Security | Endpoint posture, network security analytics, XDR workflows, incident response |
-| Engineering tools | Git, Docker, Linux, CI/CD |
+| Data and platforms | PostgreSQL, SQL, Flyway, Docker, Linux, Git, CI/CD fundamentals |
+| Web development | React, Next.js, JavaScript, TypeScript |
 
-## Engineering Principles
+## How I Approach Projects
 
-- **Be precise:** separate working features, lab experiments, and roadmap items.
-- **Make it reproducible:** document setup, configuration, architecture, and limitations.
-- **Build safely:** keep credentials and sensitive infrastructure details out of source control.
-- **Validate claims:** use tests, repeatable scenarios, and clear evidence where possible.
-- **Prefer maintainability:** keep changes focused and explain important design decisions.
+- **Clear scope:** document what is implemented, in progress, simulated, or planned.
+- **Reproducibility:** provide setup steps and configuration guidance that others can follow.
+- **Safe by design:** keep secrets out of source control and make security-sensitive actions explicit.
+- **Evidence over claims:** use tests, lab validation, and observable behaviour where possible.
+- **Maintainability:** prefer focused changes, readable code, and useful documentation.
 
 ## Current Direction
 
-I am strengthening my foundation in Java backend development, enterprise networking, network automation, and defensive cybersecurity. I am also exploring graduate-study opportunities in Japan, with a long-term interest in building reliable systems that connect software and infrastructure.
+I am deepening my skills in enterprise networking, network automation, Java backend engineering, and defensive cybersecurity, while exploring graduate study and technology opportunities in Japan.
 
 <div align="center">
 
-**Build thoughtfully. Automate carefully. Secure by design.**
+**Build with purpose · Automate with care · Secure by design**
 
 </div>
