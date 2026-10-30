@@ -8,7 +8,7 @@
 
 **Cisco · Python · Ansible · Java · Spring Boot · Network Telemetry**
 
-[Portfolio](https://dev-bhargav-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/devbhargav100) · [GitHub](https://github.com/majordevbhargav)
+[🌐 Portfolio](https://devbhargav.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/devbhargav100) · [GitHub](https://github.com/majordevbhargav)
 
 </div>
 
@@ -19,6 +19,8 @@
 I build practical tools at the intersection of **enterprise networking, automation, backend engineering, and defensive security**.
 
 My current work focuses on endpoint posture and compliance with Cisco ISE, NetFlow-based anomaly detection, security workflow automation, and repeatable network operations. I aim to make projects understandable and reproducible, with clear architecture, setup instructions, and honest implementation status.
+
+Explore my **[personal portfolio](https://devbhargav.vercel.app/)**, available in **English and Japanese**, for a broader view of my projects, professional journey, and technical interests.
 
 **Engineering loop:** Understand → Design → Build → Test → Document → Improve
 
@@ -31,7 +33,7 @@ My current work focuses on endpoint posture and compliance with Cisco ISE, NetFl
 | [XDR](https://github.com/majordevbhargav/XDR) | Cisco XDR automation lab with AWS and ServiceNow integration work, playbooks, and incident-response workflows. EDR containment remains a separate unfinished milestone. |
 | [Network-Automation-With-Python](https://github.com/majordevbhargav/Network-Automation-With-Python) | Practical Python and network-engineering exercises progressing toward repeatable Cisco automation. |
 | [Ansible-Lan-Automation](https://github.com/majordevbhargav/Ansible-Lan-Automation) | Focused experiments in LAN configuration automation with Ansible. |
-| [My Portfolio](https://github.com/majordevbhargav/My_Portfolio) | Personal portfolio showcasing selected work and professional background. |
+| [DevBhargav Portfolio](https://github.com/majordevbhargav/DevBhargav) | Bilingual personal portfolio built with HTML, CSS, and vanilla JavaScript, deployed on Vercel. |
 
 ## Technical Focus
 
